@@ -1,0 +1,6 @@
+{
+  "name": "AuraCare Hospital Management System",
+  "description": "Comprehensive hospital management platform covering patient admissions, emergency triage, electronic health records, doctor scheduling, ward and bed management, pharmacy inventory, lab diagnostics, and invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
